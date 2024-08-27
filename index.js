@@ -1,7 +1,5 @@
-import React from "react";
+function sumThis(a, b) {
+  return a + b;
+}
 
-const TestLib = () => {
-  return <div>Test Library</div>;
-};
-
-export default TestLib;
+module.exports = sumThis;
