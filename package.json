@@ -1,0 +1,22 @@
+{
+  "name": "library-pale",
+  "version": "1.0.0",
+  "description": "this is library pale",
+  "main": "index.js",
+  "scripts": {
+    "test": "library-pale"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regalforlyfe/library-pale.git"
+  },
+  "keywords": [
+    "library"
+  ],
+  "author": "pale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regalforlyfe/library-pale/issues"
+  },
+  "homepage": "https://github.com/regalforlyfe/library-pale#readme"
+}
